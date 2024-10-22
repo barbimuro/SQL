@@ -148,5 +148,4 @@ Se han creado varios roles de usuarios con diferentes niveles de permisos:
 
 ---
 
-Este README proporciona una visión general del proyecto y te permite comprender la estructura y funcionalidad de la base de datos **`styles_by_bm`** para la gestión eficiente de una tienda de productos de belleza.
 
